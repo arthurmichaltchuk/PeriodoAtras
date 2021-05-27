@@ -1,0 +1,7 @@
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\bin\Debug\PeriodosAtras.ConsoleApp.exe.config
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\bin\Debug\PeriodosAtras.ConsoleApp.exe
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\bin\Debug\PeriodosAtras.ConsoleApp.pdb
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\obj\Debug\PeriodosAtras.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\obj\Debug\PeriodosAtras.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\obj\Debug\PeriodosAtras.ConsoleApp.exe
+C:\Users\Ivana\Desktop\NDD\PeriodosAtras\PeriodosAtras\PeriodosAtras.ConsoleApp\obj\Debug\PeriodosAtras.ConsoleApp.pdb
